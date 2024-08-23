@@ -5,4 +5,5 @@ from user.models import UserModel
 
 
 print("hello")
+print("hello world")
 
