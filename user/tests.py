@@ -4,6 +4,5 @@ from user.models import UserModel
 # Create your tests here.
 
 
-print("hello")
 print("hello world")
 
